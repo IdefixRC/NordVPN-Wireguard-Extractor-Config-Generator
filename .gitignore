@@ -1,0 +1,8 @@
+# Generated WireGuard configs hold your private key: never commit them.
+*.conf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
